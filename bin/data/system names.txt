@@ -1,0 +1,1015 @@
+#Star Names list
+#Format:
+#[NAME], [Avg. Distance in pixels (+/- 50%)]
+
+#Popular, Named Stars:
+
+Proxima Centauri, 120
+Alpha Centauri, 150
+Acamar, 500
+Archernar, 450
+Achird, 180
+Akrab, 1000
+Acrux, 800
+Acubens, 600
+Adhafera, 750
+Adhara, 1200
+Ain, 500
+Aladfar, 3000
+Alamak, 900
+Alathfar, 1500
+Alaraph, 300
+Albaldah, 1300
+Albali, 650
+Albireo, 800
+Alchiba, 400
+Alcor, 450
+Alcyone, 1100
+Aldebaran, 350
+Alderamin, 250
+Aldhafera, 800
+Aldhanab, 750
+Aldhibain, 1400
+Aldib, 600
+Al Fawaris, 700
+Alpha Coronae Australis, 500
+Alfirk, 1800
+Alpha Capricorni, 450
+Alpha Persei, 1200
+Gamma Pegasi, 1100
+Gamma Leonis, 500
+Algol, 450
+Algorab, 375
+Capella, 150
+Alhena, 550
+Alioth, 200
+Alkaid, 400
+Al Kurud, 2000
+Rho Cephei, 800
+Chi Ursae Majoris, 750
+Alpha Crateris, 575
+Alkurah, 300
+Al Minliar al Asad, 750
+Alnair, 450
+Gamma Sagittarii, 300
+Alnilam, 4000
+Alnitak, 900
+Alniyat, 750
+Sigma Scorpii, 1400
+Alphard, 700
+Alphecca, 175
+Alrai, 250
+Alrami, 500
+Alpha Piscium, 650
+Alsafi, 250
+31 Lyncis, 1200
+Nu Capricorni, 950
+Altair, 300
+Delta Draconis, 400
+Altarf, 850
+Lambda Leonis, 1250
+Al Thalimain, 400
+Aludra, 3500
+Alula Australis, 175
+Alula Borealis, 1300
+Alwaid, 1100
+Alya, 500
+Alzir, 200
+Ancha, 600
+Angetenar, 700
+Ankaa, 300
+Antares, 1800
+Arcturus, 150
+Gamma Virginus, 250
+Arkab, 1000
+Arneb, 3500
+Arrakis, 800
+Ascella, 225
+Asellus Australis, 450
+Asellus Primus, 300
+Asellus Secundus, 450
+Asellus Tertius, 600
+Askella, 275
+Aspidiske, 1600
+Asterion, 225
+Asterope, 1350
+Atik, 1800
+Atlas, 1350
+Atria, 1400
+Auva, 900
+Avior, 1500
+Azaleh, 2250
+Azelfafage, 3500
+Eta Eridani, 400
+Azmidiske, 2750
+Baham, 250
+Zeta Ceti, 650
+Mimosa, 600
+Beid, 450
+Bellatrix, 800
+Benetnasch, 500
+Betelgeuse, 1900
+Betria, 400
+Theta Pegasi, 600
+Delta Arietis, 700
+Brachium, 900
+Bunda, 700
+Canopus, 1000
+Caph, 250
+Castor, 200
+Cebalrai, 325
+Celaeno, 1600
+Cor Caroli, 400
+Chertan, 575
+Beta Serpentis, 600
+Cursa, 250
+Dabih, 1250
+Decrux, 1250
+Deneb, 4000
+Deneb Algedi, 400
+Deneb Dulfim, 1250
+Deneb el Okab, 350
+Deneb Kaitos, 500
+Iota Ceti, 850
+Denebola, 300
+Eta Ceti, 650
+Diadem, 500
+Diphda, 450
+Dnoces, 250
+Delta Scorpii, 1150
+Dubhe, 450
+Zosma, 400
+Edasich, 500
+Electra, 1800
+Alpha Trianguli, 200
+Elnath, 600
+Enith, 2250
+Errai, 375
+Etamin, 600
+Fomalhaut, 225
+Beta Piscium, 2000
+Furud, 1500
+Gacrux, 350
+Garnet Star, 8000
+Gatria, 725
+Alpha Coronae Borealis, 350
+Gianfar, 1320
+Gamma Corvi, 625
+Gienah, 300
+Girtab, 600
+Gomeisa, 750
+Gorgonea Tertia, 1250
+Grumium, 500
+Hadar, 1150
+Haldus, 4000
+Hamal, 150
+Hassaleh, 1650
+Head of Hydrus, 200
+Heka, 2200
+Heze, 250
+Homam, 700
+Hyadum, 500
+Delta Tauri, 600
+Hydrobius, 550
+Jabbah, 1400
+Gamma Ceti, 250
+Omega Herculis, 750
+Kastra, 2250
+Kaus Australis, 650
+Kaus Borealis, 325
+Kaus Media, 1450
+40 Eridani, 120
+Kitalpha, 575
+Kochab, 700
+Beta Herculis, 450
+Beta Corvi, 300
+Delta Cassiopeiae, 300
+Kullat Nunu, 900
+Kuma, 350
+La Superba, 3500
+Lesath, 2000
+Lucida Anseris, 950
+Lambda Herculis, 1250
+Mahasim, 700
+Maia, 1500
+Theta Cassiopeiae, 600
+Marfik, 650
+Alpha Pegasi, 600
+Matar, 650
+Epsilon Geminorum, 2400
+Delta Ursae Majoris, 150
+Meissa, 3250
+Mekbuda, 3500
+Menchib, 3750
+Menkab, 1000
+Menkent, 200
+Menkib, 2250
+Merak, 325
+Merga, 600
+Merope, 1450
+Mesarthim, 650
+Miaplacidus, 450
+Minchir, 1400
+Minelava, 800
+Minkar, 1200
+Mintaka, 3500
+Mira, 1200
+Mirach, 800
+Miram, 2500
+Mirfak, 1800
+Mirzam, 2000
+Misam, 450
+Mizar, 320
+Muliphein, 1750
+Muphrid, 125
+Muscida, 725
+Pi Ursae Majoris, 200
+Nair Al Saif, 4500
+Naos, 3000
+Nashira, 450
+Navi, 2000
+Helios, 2000
+Nekkar, 900
+Nembus, 720
+Nihal, 650
+Nunki, 900
+Nusakan, 450
+Okul, 1900
+Phact, 750
+Phad, 325
+Pherkad, 1500
+Delta Ursae Minoris, 650
+Pleione, 1600
+Polaris, 1750
+Polaris Australis, 1000
+Pollux, 150
+Praecipua, 375
+Procyon, 100
+Propus, 1400
+Epsilon Bootis, 750
+Rana, 125
+Ras Algethi, 1225
+Ras Alhague, 250
+Ras Elased Australis, 1000
+Rasalas, 600
+Regor, 1200
+Regulus, 350
+Rigel, 3200
+Mu Virginis, 300
+Rotanev, 400
+Ruchba, 1200
+Sabik, 325
+Sadachbia, 450
+Sadalbari, 400
+Sadalmelik, 2000
+Sadalsuud, 2200
+Sadr, 4500
+Saiph, 2600
+Salm, 750
+Sargas, 1200
+Sarin, 300
+Sarir, 200
+Sceptrum, 425
+Scheat, 800
+Schedir, 900
+Segin, 1650
+Seginus, 350
+Sham, 1725
+Shaula, 2300
+Sheliak, 2750
+Sheratan, 240
+Sinistra, 600
+Sirius, 50
+Situla, 850
+Skat, 650
+Spica, 1200
+Sterope, 250
+Sualocin, 750
+Subra, 400
+Suhail, 2250
+Sulafat, 2500
+Syrma, 275
+Tabit, 125
+Talitha Australis, 1400
+Talitha Borealis, 300
+Tania Australis, 850
+Tania Borealis, 550
+Tarazet, 1600
+Taygeta, 1800
+Tegmine, 250
+Omega Sagittarii, 300
+Tejat Posterior, 900
+Tejat Prior, 1500
+Thabit, 6000
+Thuban, 1250
+Tien Kwan, 1800
+Torcularis Septentrionalis, 600
+Tureis, 2500
+Tyl, 600
+Unuk, 300
+Vega, 300
+Vindemiatrix, 600
+Wasat, 250
+Wazn, 300
+Wezen, 4800
+Yed Prior, 700
+Yed Posterior, 500
+Zaniah, 1100
+Zaurak, 600
+Zuben-el-Akrab, 600
+Lanx Australis, 300
+
+#Constellations:
+
+#Andromeda:
+Alpha Andromedae, 400
+Beta Andromedae, 350
+Delta Andromedae, 400
+51 Andromedae, 700
+Omicron Andromedae, 2250
+Lambda Andromedae, 350
+Mu Andromedae, 550
+Zeta Andromedae, 600
+Upsilon Andromedae, 200
+Kappa Andromedae, 700
+Phi Andromedae, 2800
+Iota Andromedae, 2000
+Pi Andromedae, 2500
+Epsilon Andromedae, 700
+Eta Andromedae, 1000
+Sigma Andromedae, 550
+Nu Andromedae, 2500
+7 Andromedae, 250
+Theta Andromedae, 1000
+3 Andromedae, 750
+65 Andromedae, 1400
+58 Andromedae, 800
+8 Andromedae, 2600
+Omega Andromedae, 400
+60 Andromedae, 2250
+Xi Andromedae, 800
+Tau Andromedae, 2500
+Psi Andromedae, 4000
+22 Andromedae, 3000
+Chi Andromedae, 1000
+41 Andromedae, 800
+2 Andromedae, 1400
+V428 Andromedae, 2600
+Rho Andromedae, 650
+64 Andromedae, 1500
+GN Andromedae, 750
+14 Andromedae, 1000
+49 Andromedae, 1200
+32 Andromedae, 1400
+4 Andromedae, 1300
+62 Andromedae, 1000
+18 Andromedae, 1600
+55 Andromedae, 2200
+11 Andromedae, 1200
+36 Andromedae, 600
+V340 Andromedae, 1000
+PZ Andromedae, 1400
+47 Andromedae, 850
+44 Andromedae, 700
+5 Andromedae, 450
+56 Andromedae, 1250
+23 Andromedae, 400
+V388 Andromedae, 1600
+12 Andromedae, 600
+45 Andromedae, 3500
+10 Andromedae, 2200
+OU Andromedae, 1700
+KK Andromedae, 1600
+6 Andromedae, 400
+39 Andromedae, 1400
+AN Andromedae, 1900
+V439 Andromedae, 175
+59 Andromedae A, 1000
+26 Andromedae, 2800
+GO Andromedae, 1250
+66 Andromedae, 600
+OP Andromedae, 1700
+CG Andromedae, 2700
+LN Andromedae, 4000
+V385 Andromedae, 4200
+GY Andromedae, 1850
+V529 Andromedae, 750
+ET Andromedae, 2200
+PY Andromedae, 2800
+59 Andromedae B, 4800
+GRB 34, 100
+Z Andromedae, 5600
+HAT-P-6, 2600
+HAT-P-16, 3000
+HAT-P-32, 4000
+WASP-1, 3750
+Kepler-63, 2600
+Ross 248, 150
+HAT-P-19, 2800
+HAT-P-28, 3750
+
+#Antlia:
+Alpha Antliae, 1500
+Epsilon Antliae, 2800
+Iota Antliae, 800
+Theta Antliae, 1500
+Eta Antliae, 450
+U Antliae, 2500
+HR-4049, 6200
+Delta Antliae, 1900
+BF Antliae, 2000
+S Antliae, 1000
+T Antliae, 7000
+Delta Antliae, 1900
+WASP-66, 3750
+UX Antliae, 1200
+DEN 1048-3956, 200
+XTE J0929-314, 400
+2MASS 0939-2448, 200
+
+#Apus:
+Alpha Apodis, 1600
+Gamma Apodis, 700
+Beta Apodis, 700
+Delta Apodis, 3000
+Zeta Apodis, 1200
+Eta Apodis, 600
+Epsilon Apodis, 2200
+Delta Apodis, 2500
+R Apodis, 1700
+Iota Apodis, 4400
+Kappa Apodis, 4800
+HR-6135, 3800
+Theta Apodis, 1300
+HR 5955, 1200
+NO Apodis, 3200
+S Apodis, 6000
+
+#Aquarius:
+Zeta Aquarii, 400
+88 Aquarii, 1000
+Lambda Aquarii, 1600
+Epsilon Aquarii, 1000
+Gamma Aquarii, 600
+98 Aquarii, 650
+Eta Aquarii, 800
+Tau Aquarii, 1500
+Theta Aquarii, 800
+Phi Aquarii, 1000
+Psi Aquarii, 700
+Iota Aquarii, 7000
+99 Aquarii, 1200
+3 Aquarii, 1800
+86 Aquarii, 800
+Omega Aquarii, 800
+Nu Aquarii, 600
+Xi Aquarii, 700
+66 Aquarii, 1800
+101 Aquarii, 1300
+89 Aquarii, 2100
+Mu Aquarii, 600
+Omicron Aquarii, 1600
+Pi Aquarii, 4400
+Sigma Aquarii, 1100
+104 Aquarii A, 2600
+Chi Aquarii, 2600
+Kappa Aquarii, 1000
+25 Aquarii, 1000
+47 Aquarii, 800
+1 Aquarii, 1000
+108 Aquarii, 1300
+97 Aquarii, 1000
+Upsilon Aquarii, 400
+68 Aquarii, 1200
+106 Aquarii, 1300
+107 Aquarii, 800
+32 Aquarii, 950
+41 Aquarii, 1300
+42 Aquarii, 1900
+Rho Aquarii, 3000
+103 Aquarii, 2300
+38 Aquarii, 2300
+83 Aquarii, 800
+18 Aquarii, 1000
+21 Aquarii, 1600
+7 Aquarii, 2400
+49 Aquarii, 1200
+77 Aquarii, 1000
+5 Aquarii, 2750
+30 Aquarii, 1200
+96 Aquarii, 500
+28 Aquarii, 2600
+26 Aquarii, 3500
+Tau Aquarii, 1100
+19 Aquarii, 1100
+44 Aquarii, 1400
+50 Aquarii, 2200
+51 Aquarii, 2100
+35 Aquarii, 6792
+74 Aquarii, 2600
+15 Aquarii, 1900
+16 Aquarii, 1400
+60 Aquarii, 1800
+DV Aquarii, 1100
+45 Aquarii, 1400
+4 Aquarii, 800
+17 Aquarii, 2900
+39 Aquarii, 600
+82 Aquarii, 3600
+70 Aquarii, 1500
+78 Aquarii, 2400
+81 Aquarii, 1700
+100 Aquarii, 1100
+LP Aquarii, 4000
+56 Aquarii, 2500
+R Aquarii, 2600
+20 Aquarii, 1000
+29 Aquarii, 1800
+58 Aquarii, 1000
+61 Aquarii, 1900
+67 Aquarii, 1500
+IZ Aquarii, 4500
+14 Aquarii, 3600
+EW Aquarii, 1600
+37 Aquarii, 1800
+24 Aquarii, 750
+Gliese 884, 100
+Gliese 898, 200
+Gliese 876, 100
+Gliese 849, 100
+AE Aquarii, 100
+WASP-47, 2600
+EZ Aquarii, 100
+LP 876-10, 400
+FO Aquarii, 400
+
+#Aquilus:
+Beta Aquilae, 300
+Theta Aquilae, 1250
+Delta Aquilae, 200
+Eta Aquilae, 3000
+Epsilon Aquilae, 750
+12 Aquilae, 1000
+71 Aquilae, 1200
+Iota Aquilae, 1400
+Mu Aquilae, 600
+Xi Aquilae, 800
+69 Aquilae, 600
+70 Aquilae, 4500
+Kappa Aquilae, 4500
+26 Aquilae, 600
+4 Aquilae, 1900
+36 Aquilae, 2000
+18 Aquilae, 2000
+23 Aquilae, 1500
+37 Aquilae, 1800
+Omicron Aquilae, 320
+21 Aquilae, 2600
+31 Aquilae, 200
+Sigma Aquilae, 2700
+19 Aquilae, 550
+11 Aquilae, 600
+Omega Aquilae, 1700
+Chi Aquilae, 3000
+Phi Aquilae, 800
+20 Aquilae, 3600
+V1291 Aquilae, 1100
+62 Aquilae, 2200
+Pi Aquilae, 2300
+56 Aquilae, 1200
+Upsilon Aquilae, 700
+10 Aquilae, 1000
+QS Aquilae, 4500
+V923 Aquilae, 2850
+R Aquilae, 4200
+Psi Aquilae, 3200
+46 Aquilae, 2900
+V450 Aquilae, 3400
+U Aquilae, 4800
+V1472 Aquilae, 3000
+V1401 Aquilae, 3750
+HAT-P-41, 4000
+V603 Aquilae, 3100
+WASP-80, 800
+COROT-2, 2800
+COROT-3, 6600
+COROT-8, 3750
+COROT-10, 3600
+V606 Aquilae, 2800
+
+#Ara:
+Beta Arae, 2600
+Alpha Arae, 1100
+Zeta Arae, 2300
+Gamma Arae, 4000
+Delta Arae, 700
+Theta Arae, 3250
+Eta Arae, 1200
+Epsilon Arae, 1200
+Sigma Arae, 1500
+Lambda Arae, 300
+Mu Arae, 200
+Kappa Arae, 1600
+Iota Arae, 2900
+Pi Arae, 600
+Rho Arae, 2000
+V539 Arae, 3300
+V854 Arae, 3200
+V862 Arae, 6600
+HR-6384, 3900
+Nu Arae, 2000
+V828 Arae, 6600
+V626 Arae, 4500
+V872 Arae, 650
+R Arae, 1100
+Gliese 674, 100
+S Arae, 6000
+Gliese 676, 200
+
+#Aries:
+Bahrani, 600
+Lucida Ventris, 700
+39 Arietis, 700
+Gamma Arietis, 600
+35 Arietis, 1500
+Lambda Arietis, 600
+Zeta Arietis, 1400
+14 Arietis, 1300
+Kappa Arietis, 800
+Iota Arietis, 2600
+Tau Arietis, 1300
+38 Arietis, 500
+Epsilon Arietis, 1400
+Eta Arietis, 400
+Pi Arietis, 2400
+Nu Arietis, 1400
+Xi Arietis, 2400
+Sigma Arietis, 2000
+62 Arietis, 2900
+Theta Arietis, 1500
+15 Arietis, 2600
+19 Arietis, 2200
+Mu Arietis, 1400
+35 Arietis, 3500
+Omicron Arietis, 1900
+40 Arietis, 2000
+HR-830, 1800
+59 Arietis, 800
+36 Arietis, 1600
+UX Arietis, 600
+Rho Arietis, 1200
+HIP-14810, 700
+SS Arietis, 2800
+WASP-11, 1600
+L 1159-16, 100
+HAT-P-25, 2900
+HAT-P-52, 3750
+Teegarden's star, 100
+
+#Auriga:
+Menkalinan, 400
+Zeta Aurigae, 2500
+Eta Aurigae, 950
+Iota Aurigae, 1900
+Nu Aurigae, 900
+Pi Aurigae, 3400
+Kappa Aurigae, 750
+Tau Aurigae, 850
+16 Aurigae, 1000
+Chi Aurigae, 8000
+Upsilon Aurigae, 1900
+2 Aurigae, 2200
+Psi Aurigae, 1800
+Mu Aurigae, 600
+63 Aurigae, 1800
+Omega Aurigae, 700
+Xi Aurigae, 1000
+Sigma Aurigae, 2000
+19 Aurigae, 8000
+Phi Aurigae, 1600
+65 Aurigae, 1000
+Rho Aurigae, 2600
+66 Aurigae, 3000
+49 Aurigae, 1800
+40 Aurigae, 1600
+IQ Aurigae, 1800
+UU Aurigae, 5400
+Omicron Aurigae, 2000
+PU Aurigae, 2800
+36 Aurigae, 3000
+RT Aurigae, 6000
+WW Aurigae, 1100
+47 Aurigae, 2100
+V433 Aurigae, 4800
+AE Aurigae, 6000
+V394 Aurigae, 3600
+38 Aurigae, 1000
+AR Aurigae, 1600
+V352 Aurigae, 3400
+NO Aurigae, 4200
+V440 Aurigae, 2400
+22 Aurigae, 2400
+LY Aurigae, 6000
+NO Aurigae, 1800
+EO Aurigae, 4800
+MZ Aurigae, 8000
+IU Aurigae, 2800
+KELT-2A, 1700
+HAT-P-9, 6000
+GD-66, 600
+
+#Bootes:
+Mu Bootis, 550
+Princeps, 450
+Hemelein Prima, 600
+Zeta Bootis, 800
+Upsilon Bootis, 1000
+Lambda Bootis, 400
+Hemelein Secunda, 200
+Pi Bootis, 1300
+Tau Bootis, 200
+Nadlat, 1000
+Omicron Bootis, 900
+Iota Bootis, 400
+W Bootis, 3600
+Omega Bootis, 1400
+31 Bootis, 2200
+6 Bootis, 1400
+9 Bootis, 2600
+Nu Bootis, 3600
+BY Bootis, 1800
+Phi Bootis, 700
+CF Bootis, 2200
+Chi Bootis, 1000
+BP Bootis, 1200
+2 Bootis, 1200
+7 Bootis, 2800
+CH Bootis, 3200
+10 Bootis, 2000
+EK Bootis, 3600
+CY Bootis, 4000
+11 Bootis, 1400
+BX Bootis, 1900
+CI Bootis, 2800
+WASP-14, 2500
+R Bootis, 4800
+WASP-113, 4400
+
+#Caelum:
+Alpha Caeli, 250
+Gamma Caeli, 800
+Beta Caeli, 400
+Delta Caeli, 2800
+Nu Caeli, 750
+Lambda Caeli, 2600
+X Caeli, 1400
+Zeta Caeli, 2100
+RV Caeli, 4100
+
+#Camelopardalis:
+Beta Camelopardalis, 4400
+Alpha Camelopardalis, 14000
+BE Camelopardalis, 3800
+CE Camelopardalis, 7500
+Gamma Camelopardalis, 1400
+BK Camelopardalis, 3200
+L Camelopardalis, 600
+PLX-772, 3200
+VZ Camelopardalis, 1900
+BD Camelopardalis, 2100
+D Camelopardalis, 800
+CQ Camelopardalis, 5000
+42 Camelopardalis, 3400
+35 Camelopardalis, 1600
+25 Camelopardalis, 2800
+33 Camelopardalis, 3000
+Sigma 1694, 1200
+NSV-1558, 1700
+BN Camelopardalis, 1500
+FR Camelopardalis, 3300
+KZ Camelopardalis, 2200
+Alpha Camelopardalis, 14000
+29 Camelopardalis, 1800
+22 Camelopardalis, 800
+
+#Cancer:
+Al Tarf, 1200
+Iota Cancri, 1200
+Gamma Cancri, 750
+Chi Cancri, 300
+Xi Cancri, 1500
+Omicron Cancri, 700
+Rho Cancri, 2300
+Sigma Cancri, 1300
+Kappa Cancri, 1900
+Mu Cancri, 300
+Theta Cancri, 2000
+Eta Cancri, 1300
+82 Cancri, 2800
+Tau Cancri, 1100
+60 Cancri, 2300
+Nu Cancri, 1800
+27 Cancri, 4100
+Phi Cancri, 1600
+3 Cancri, 2900
+15 Cancri, 3500
+Upsilon Cancri, 1100
+Psi Cancri, 500
+Omega Cancri, 2600
+Lambda Cancri, 1700
+20 Cancri, 1600
+46 Cancri, 1900
+53 Cancri, 4500
+Epsilon Cancri, 2200
+FZ Cancri, 2800
+X Cancri, 7200
+BY Cancri, 1800
+RZ Cancri, 4250
+TX Cancri, 2500
+EX Cancri, 5500
+ES Cancri, 5500
+HAT-P-31, 4800
+CU Cancri, 250
+WASP-65, 4000
+EW Cancri, 5500
+HV Cancri, 5500
+EV Cancri, 5500
+HAT-P-43, 5400
+YBP-1194, 5500
+LHS-2090, 200
+
+#Canes Venatici:
+AW Canum Venaticorum, 2400
+21 Canum Venaticorum, 1100
+3 Canum Venaticorum, 2100
+Alpha Canum Venaticorum, 700
+TU Canum Venaticorum, 2800
+2 Canum Venaticorum, 3300
+19 Canum Venaticorum, 1000
+17 Canum Venaticorum, 800
+11 Canum Venaticorum, 1900
+15 Canum Venaticorum, 4600
+
+#Henry Draper catalog numbers:
+
+HD-177074, 600
+HD-53329, 900
+HD-90677, 7000
+HD-180262, 2000
+HD-12296, 1000
+HD-56160, 1000
+HD-1976, 4500
+HD-59311, 4500
+HD-220572, 1100
+HD-113778, 1200
+HD-220974, 750
+HD-4853, 950
+HD-6798, 800
+HD-87015, 3500
+HD-72737, 2525
+HD-76653, 650
+HD-203644, 1200
+HD-105509, 950
+HD-220440, 1400
+HD-9377, 800
+HD-96834, 2000
+HD-88809, 1650
+HD-45976, 9000
+HD-182286, 900
+HD-85709, 4000
+HD-68951, 2400
+HD-81613, 1200
+HD-94669, 1000
+HD-220003, 950
+HD-4817, 5000
+HD-194184, 1150
+HD-10307, 200
+HD-5788, 1600
+HD-222109, 3200
+HD-224635, 400
+HD-2767, 1800
+HD-1606, 2400
+HD-5608, 750
+HD-3883, 1825
+HD-223229, 3900
+HD-225218, 4500
+HD-1185, 1200
+HD-221776, 2600
+HD-221246, 3400
+HD-895, 1600
+HD-220105, 1000
+HD-2942, 1800
+HD-8673, 500
+HD-222641, 2400
+HD-6114, 1400
+HD-222399, 1200
+HD-222155, 650
+HD-16175, 800
+HD-1605, 1100
+HD-13931, 600
+HD-5583, 2900
+HD-15082, 1500
+HD-90132, 550
+HD-96146, 2600
+HD-82205, 3000
+HD-93905, 1400
+HD-83380, 1100
+HD-92845, 2400
+HD-83332, 1200
+HD-86267, 1900
+HD-82514, 1100
+HD-88809, 1800
+HD-85206, 1600
+HD-83441, 1400
+HD-88218, 400
+HD-82165, 800
+HD-89015, 1400
+HD-90071, 700
+HD-87606, 1700
+HD-85725, 700
+HD-88522, 2000
+HD-89442, 2400
+HD-88836, 1800
+HD-88013, 2350
+HD-85296, 2200
+HD-92589, 2800
+HD-88742, 300
+HD-84224, 4500
+HD-87477, 3200
+HD-82785, 1000
+HD-84567, 7000
+HD-83108, 800
+HD-93083, 400
+HD-130458, 1250
+HD-164712, 1000
+HD-165259, 600
+HD-131425, 3500
+HD-138867, 1500
+HD-122862, 400
+HD-133981, 3400
+HD-126209, 2100
+HD-161988, 2400
+HD-121439, 2900
+HD-138289, 1400
+HD-131551, 2100
+HD-154556, 1000
+HD-154972, 1300
+HD-128294, 2400
+HD-162337, 3700
+HD-137366, 4200
+HD-141846, 1100
+HD-124639, 3800
+HD-129899, 3600
+HD-152010, 4900
+HD-124099, 6000
+HD-159558, 1500
+HD-134606, 325
+HD-137509, 2500
+HD-131664, 700
+HD-137388, 600
+HD-222093, 1100
+HD-216718, 1200
+HD-223807, 2400
+HD-211392, 1400
+HD-210434, 1100
+HD-199442, 1250
+HD-223311, 2900
+HD-219279, 2500
+HD-213429, 320
+HD-218061, 2200
+HD-220035, 1600
+HD-205765, 1600
+HD-214448, 1800
+HD-198272, 2700
+HD-200375, 800
+HD-208177, 900
+HD-221148, 700
+HD-214810, 400
+HD-219659, 1600
+HD-202259, 2700
+HD-211575, 600
+HD-215114, 1000
+HD-210777, 350
+HD-212771, 1600
+HD-222582, 600
+HD-220689, 600
+HD-215152, 250
+HD-206610, 2200
+HD-185018, 4400
+HD-183589, 4800
+HD-194244, 3400
+HD-191984, 2400
+HD-157661, 2400
+HD-153716, 2900
+HD-150745, 3300
+HD-156854, 1600
+HD-156942, 2800
+HD-159463, 1400
+HD-159018, 3300
+HD-157599, 2000
+HD-157524, 3100
+HD-20149, 1700
+HD-19270, 1200
+HD-12139, 1600
+HD-19600, 2400
+HD-122563, 3400
