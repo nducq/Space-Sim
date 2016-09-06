@@ -2,6 +2,9 @@ package governments;
 
 import java.awt.Color;
 
+/**
+ * Faction class
+ */
 public class Faction {
 	private String longName;
 	private String shortName;
