@@ -22,7 +22,7 @@ public class Map implements GuiCreator{
 	private Main device;
 	private long mapX;
 	private long mapY;
-	private int scale;
+	//private int scale;
 	private int drawMap;
 	private boolean drawGrid;
 	private boolean drawHidden;
@@ -418,28 +418,28 @@ public class Map implements GuiCreator{
     	
     	switch(spob.getType()){
     		case ASTEROID:
-	    		device.image(spob.getGraphicIndex(), planetX - 2, planetY - 2, 4, 4);
+	    		device.image(spob.getGraphicIndex(), planetX - 2, planetY - 2, (int)Math.max(4, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(4, spob.getGraphicIndex().height * solarZoomMultiplier));
 	    		break;
 			case PLANET:
 	    		switch((PlanetSubType)spob.getSubType()){
 				case DWARF:
-					device.image(spob.getGraphicIndex(), planetX - 3, planetY - 3, 6, 6);
+		    		device.image(spob.getGraphicIndex(), planetX - 3, planetY - 3, (int)Math.max(6, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(6, spob.getGraphicIndex().height * solarZoomMultiplier));
 					break;
 				case CHUNK:
-					device.image(spob.getGraphicIndex(), planetX - 3, planetY - 3, 6, 6);
+		    		device.image(spob.getGraphicIndex(), planetX - 3, planetY - 3, (int)Math.max(6, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(6, spob.getGraphicIndex().height * solarZoomMultiplier));
 		    		break;
 				case JOVIAN:
 		    		//device.fill(device.color(0, 128, 196));
-		    		device.image(spob.getGraphicIndex(), planetX - 6, planetY - 6, 12, 12);
+		    		device.image(spob.getGraphicIndex(), planetX - 6, planetY - 6, (int)Math.max(12, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(12, spob.getGraphicIndex().height * solarZoomMultiplier));
 		    		break;
 				case SUPER_JOVIAN:
-		    		device.image(spob.getGraphicIndex(), planetX - 12, planetY - 12, 24, 24);
+		    		device.image(spob.getGraphicIndex(), planetX - 12, planetY - 12, (int)Math.max(24, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(24, spob.getGraphicIndex().height * solarZoomMultiplier));
 		    		break;
 				case SUPER_TERRESTRIAL:
-					device.image(spob.getGraphicIndex(), planetX - 6, planetY - 6, 12, 12);
+		    		device.image(spob.getGraphicIndex(), planetX - 6, planetY - 6, (int)Math.max(12, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(12, spob.getGraphicIndex().height * solarZoomMultiplier));
 		    		break;
     			case TERRESTRIAL:
-					device.image(spob.getGraphicIndex(), planetX - 4, planetY - 4, 8, 8);
+		    		device.image(spob.getGraphicIndex(), planetX - 4, planetY - 4, (int)Math.max(8, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(8, spob.getGraphicIndex().height * solarZoomMultiplier));
 		    		break;
 				default:
 					break;
@@ -449,32 +449,32 @@ public class Map implements GuiCreator{
 				switch((StarSubType)spob.getSubType()){
 					case RED_GIANT:
 					case RED:
-						device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, 32, 32);
+			    		device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, (int)Math.max(32, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(32, spob.getGraphicIndex().height * solarZoomMultiplier));
 				        break;
 					case ORANGE_SUB_GIANT:
 					case ORANGE_GIANT:
 					case ORANGE:
-						device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, 32, 32);
+			    		device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, (int)Math.max(32, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(32, spob.getGraphicIndex().height * solarZoomMultiplier));
 				        break;
 					case YELLOW_SUB_GIANT:
 					case YELLOW_GIANT:
 					case YELLOW:
-						device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, 32, 32);
+			    		device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, (int)Math.max(32, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(32, spob.getGraphicIndex().height * solarZoomMultiplier));
 			    		break;
 					case WHITE_SUB_GIANT:
 					case WHITE_GIANT:
 					case WHITE:
-						device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, 32, 32);
+			    		device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, (int)Math.max(32, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(32, spob.getGraphicIndex().height * solarZoomMultiplier));
 				        break;
 					case BLUE_WHITE_SUB_GIANT:
 					case BLUE_WHITE_GIANT:
 					case BLUE_WHITE:
-						device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, 32, 32);
+			    		device.image(spob.getGraphicIndex(), planetX - 16, planetY - 16, (int)Math.max(32, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(32, spob.getGraphicIndex().height * solarZoomMultiplier));
 				        break;
 				}
 				break;
 			case MOON:
-				device.image(spob.getGraphicIndex(), planetX - 3, planetY - 3, 6, 6);
+	    		device.image(spob.getGraphicIndex(), planetX - 3, planetY - 3, (int)Math.max(6, spob.getGraphicIndex().width * solarZoomMultiplier), (int)Math.max(6, spob.getGraphicIndex().height * solarZoomMultiplier));
 				break;
 		    default:
 		    	device.fill(device.color(0, 0, 255));

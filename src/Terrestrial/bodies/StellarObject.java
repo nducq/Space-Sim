@@ -380,8 +380,8 @@ public class StellarObject {
 	
 	public void setLuminosity(double luminosity){
 		this.luminosity = luminosity;
-		titiusCoefficient = Main.TITIUS_COEFFICIENT * luminosity * Util.randomDouble(0.5, 1.5);
-		bodeConstant = Main.BODE_CONSTANT * luminosity * Util.randomDouble(0.5, 1.5);
+		//titiusCoefficient = Main.TITIUS_COEFFICIENT * luminosity * Util.randomDouble(0.5, 1.5);
+		//bodeConstant = Main.BODE_CONSTANT * luminosity * Util.randomDouble(0.5, 1.5);
 	}
 	
 	public void setAlbedo(double albedo){
